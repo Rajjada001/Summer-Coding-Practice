@@ -23,5 +23,5 @@ def mergeSortedArrays(a, m, b, n):
         j+=1
     return res
 
-print(mergeSortedArrays([1,2,3,4,6], 5, [2,3,5], 3))
+print(mergeSortedArrays([1,2,3,4,6], 3, [2,3,5], 3))
 
